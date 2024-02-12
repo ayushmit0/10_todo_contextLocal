@@ -1,6 +1,6 @@
 # React + Vite
 
-
+live-https://65ca5f717bc6ca2415e818f5--spontaneous-sunflower-999349.netlify.app/
 
 - todo
 this is todo app developed using react ,js ,html,css(tailwind) concept in this project i have used concept of context api instead passing data using props local storage is used to staore the data ,you can create new task ,edit exiting task ,do un-do task and delete the completed task if you wish
